@@ -31,9 +31,7 @@ const RESOURCE_URLS = {
 	},
 	company: {
 		styleguide: ['https://company.com/styleguide'],
-		uilibraries: ['https://design.serviceware-se.com/1c05ede90/p/6059f8-libraries-sfprime'],
-		frontendguideline: ['https://know-how.knowledge.serviceware.cloud/web/#!/tree/node/_id/394cf0b90e6b470b9a042356dc60344c'],
-		codeblue: ['https://design.serviceware-se.com/1c05ede90/p/19a403-about-code-blue'],
+		uilibraries: ['https://design.company.com'],
 		apis: ['https://company.com/api-docs']
 	}
 };
